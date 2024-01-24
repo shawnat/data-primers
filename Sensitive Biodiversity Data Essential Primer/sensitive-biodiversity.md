@@ -4,7 +4,7 @@
 
 Authors: Jen Jordan, Carlos Ramirez-Reyes, Shawna Taylor, Joanna Thielen, and Briana Wham
 
-DCN Mentors: Shawna Taylor, Jeff the Dog
+DCN Mentors: Shawna Taylor
 
 Affiliate Contributors (external peer reviewers): Megan O'Donnell and Sophia Lafferty-Hess
 
